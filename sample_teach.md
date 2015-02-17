@@ -1,4 +1,4 @@
-Objectives
+<h2>Objectives</h2>
 #####
 
 - recap loops in ruby
